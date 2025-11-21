@@ -1,7 +1,9 @@
 # Ejercicios de Búsquedas en C#
 
 Programación Estructurada
+
 Estudiante: Rolando Mayorga
+
 Docente: MSc. José Alejandro Durán García
 
 ## 📌 Descripción general
